@@ -23,3 +23,5 @@ Products for image/video/text data
 - Bounding Box/Classification/
 - Cuboid/Lines/Points/Polygon/Segmentation/
 - Transcription/ Data Extraction/
+
+Below is the link to the sample annotated images: https://drive.google.com/open?id=1-Zti0tr7I2efBruVjPB_vR827X_KYUUE
